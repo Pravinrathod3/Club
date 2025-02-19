@@ -97,7 +97,7 @@ const About = () => {
             className="grid grid-cols-1 md:grid-cols-3 gap-8 py-12"
           >
             <StatCounter end={50} label="Active Members" />
-            <StatCounter end={20} label="Projects Completed" />
+            <StatCounter end={100} label="participation" />
             <StatCounter end={15} label="Events Organized" />
           </motion.div>
 
