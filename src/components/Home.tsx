@@ -8,7 +8,7 @@ import Events from './Events';
 import Contact from './Contact';
 
 // Stats Counter Component
-const StatCounter = ({ end, label, duration = 2 }: { end: number; label: string; duration?: number }) => {
+ const StatCounter = ({ end, label, duration = 2 }: { end: number; label: string; duration?: number }) => {
   const [ref, inView] = useInView({
     triggerOnce: true,
     threshold: 0.1
