@@ -1,29 +1,30 @@
-import React from 'react';
+import event1 from '../Assets/WhatsApp Image 2025-02-19 at 11.23.49 (1).jpeg';
+import event2 from '../Assets/WhatsApp Image 2025-02-20 at 23.14.08.jpeg';
 import { Calendar, MapPin, Camera } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const Events = () => {
   const pastEvents = [
     {
-      title: "Hackathon 2024",
-      date: "January 15-16, 2024",
-      location: "Engineering Building",
-      description: "48-hour hackathon where teams built innovative solutions for real-world problems.",
-      image: "https://drive.google.com/file/d/1Rn3sEkJhMyMPlH1ebyrLmGWuCFhRpV2I/view?usp=drive_link",
-      participants: 120,
-      highlights: ["15 Projects", "4 Industry Sponsors", "₹50,000 in Prizes"]
-    },
-    {
       title: "AI Workshop Series",
-      date: "November 5-7, 2024",
-      location: "Virtual Event",
-      description: "Three-day intensive workshop on artificial intelligence and machine learning fundamentals.",
-      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800",
-      participants: 200,
+      date: "January 28-29, 2025",
+      location: "ENTC Department",
+      description: "Two-day workshop on artificial intelligence and machine learning fundamentals.",
+      image: event1,
+      participants: 70,
       highlights: ["Hands-on ML Projects", "Expert Speakers", "Certificate Program"]
     },
     {
-      title: "Code Sprint 2024",
+      title: "DSA Contest",
+      date: "January 30, 2025",
+      location: "ENTC Department",
+      description: "Data structures and algorithms contest with problems across different difficulty levels.",
+      image: event2,
+      participants: 50,
+      highlights: ["2 Rounds", "6000 rupees worth prizes", "Certificate Program"]
+    },
+    {
+      title: "Guest Lecture on Data analytics",
       date: "February 20, 2024",
       location: "Computer Lab",
       description: "Competitive programming event with challenges across different difficulty levels.",

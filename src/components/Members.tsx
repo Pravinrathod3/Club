@@ -5,7 +5,7 @@ const Members = () => {
   const members = [
     {
       "name": "Gayatri Deepak Pawar ",
-      "year": "SE",
+      "year": "2nd year",
       "role": "Public relations and marketing head",
       "skills": ["HTML", "CSS", "C++"],
       "links": "https://www.linkedin.com/in/gayatripawar01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -13,7 +13,7 @@ const Members = () => {
     },
     {
       "name": "Sarthak Rajendra Pawar ",
-      "year": "Third year ",
+      "year": "3rd year ",
       "role": "Treasurer ",
       "skills": ["Web Development","Spring Boot", "AWS"],
       "image": "https://media.licdn.com/dms/image/v2/D4D03AQHoG7N5cMzecw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709379876369?e=1746057600&v=beta&t=K0wYN49Hr7z_HANbPDUGyNboLmW9UdGLr5HGvyc-J0s",
@@ -21,7 +21,7 @@ const Members = () => {
     },
     {
       "name": "Sakshi Babanagare ",
-      "year": "TE",
+      "year": "3rd year",
       "role": "Event management head and PR head",
       "skills": ["c++", "Java", "python" ],
       "links": "https://www.linkedin.com/in/sakshi-babanagare-771669305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -29,7 +29,7 @@ const Members = () => {
     },
     {
       "name": "Kanchan Shyamsing Rajput ",
-      "year": "Third year ",
+      "year": "3rd year ",
       "role": "Secretary ",
       "skills": ["Java", "Full stack developer" , "MERN stack developer" ],
       "links": "https://www.linkedin.com/in/kanchan-rajput-97b35a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -45,7 +45,7 @@ const Members = () => {
     },
     {
       "name": "Aditya Pandurang Bhise",
-      "year": "Se",
+      "year": "2nd year",
       "role": "Technical team member",
       "skills": ["Web development", "php", "MySql"],
       "links": "https://www.linkedin.com/in/aditya-bhise-7543ab318",
@@ -53,7 +53,7 @@ const Members = () => {
     },
     {
       "name": "Sakshi sunil shirude ",
-      "year": "Third year",
+      "year": "3rd year",
       "role": "Event Management Head",
       "skills": ["Python Technology", "AIML Technology"],
       "links": "https://www.linkedin.com/in/sakshi-shirude-1461aa269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -61,7 +61,7 @@ const Members = () => {
     },
     {
       "name": "PRATIK SHRIRAM KADNOR",
-      "year": "SE",
+      "year": "2nd year",
       "role": "Technical Team member",
       "skills": ["Html" , "Css" , "JS"],
       "links": "https://www.linkedin.com/in/pratik-kadnor-174334290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -77,7 +77,7 @@ const Members = () => {
     },
     {
       "name": "Pranav Mulik ",
-      "year": "2nd Year",
+      "year": "2nd year",
       "role": "Jr. Database Management ",
       "skills": ["C++", "UI/UX", "Frontend Development"],
       "links": "https://www.linkedin.com/in/pranav-mulik-1023b3232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -85,7 +85,7 @@ const Members = () => {
     },
     {
       "name": "Sumeet Sanjay Yadav",
-      "year": "TE",
+      "year": "3rd year",
       "role": "Vice President",
       "skills": ["C++" , "React" , "Tailwind" ],
       "links": "https://www.linkedin.com/in/sumeet-sanjay-yadav-741b86256/",
@@ -93,7 +93,7 @@ const Members = () => {
     },
     {
       "name": "Asmita Janardhan Andhare ",
-      "year": "Third year ",
+      "year": "3rd year ",
       "role": "Creative and social media team head",
       "skills": ["Java", "c++" ],
       "links": "https://www.linkedin.com/in/asmita-andhare-030728324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -101,9 +101,9 @@ const Members = () => {
     },
     {
       "name": "Aditya Nikam ",
-      "year": "SE",
+      "year": "2nd year",
       "role": "Creative team",
-      "skills": [ ],
+      "skills": ["Html", "CSS", "javascript" ],
       "links": "https://www.linkedin.com/in/adityaanikam",
       "image": "https://media.licdn.com/dms/image/v2/D4D03AQFkiKCK70IbfA/profile-displayphoto-shrink_400_400/B4DZTpUNhdG4Ao-/0/1739081177714?e=1746057600&v=beta&t=ToFkUHDTj-sxoK6_POXrWzDU0kpZfGewFQYNudBHkT0"
     }

@@ -60,8 +60,8 @@ const About = () => {
   };
 
   return (
-    <div  id="about" className="min-h-screen pt-20">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
+    <div  id="about" className="min-h-screen pt-10 md:pt-5">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20">
         <motion.div
           ref={ref}
           initial="hidden"
