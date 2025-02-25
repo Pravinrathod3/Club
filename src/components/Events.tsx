@@ -9,7 +9,7 @@ const Events = () => {
       date: "January 15-16, 2024",
       location: "Engineering Building",
       description: "48-hour hackathon where teams built innovative solutions for real-world problems.",
-      image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=800",
+      image: "https://drive.google.com/file/d/1Rn3sEkJhMyMPlH1ebyrLmGWuCFhRpV2I/view?usp=drive_link",
       participants: 120,
       highlights: ["15 Projects", "4 Industry Sponsors", "₹50,000 in Prizes"]
     },
