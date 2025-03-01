@@ -2,6 +2,7 @@ import event1 from '../Assets/WhatsApp Image 2025-02-19 at 11.23.49 (1).jpeg';
 import event2 from '../Assets/WhatsApp Image 2025-02-20 at 23.14.08.jpeg';
 import { Calendar, MapPin, Camera } from 'lucide-react';
 import { motion } from 'framer-motion';
+import event3 from '../Assets/IMG_20240823_161439.jpg';
 
 const Events = () => {
   const pastEvents = [
@@ -25,10 +26,10 @@ const Events = () => {
     },
     {
       title: "Guest Lecture on Data analytics",
-      date: "February 20, 2024",
+      date: "August 20, 2024",
       location: "Computer Lab",
       description: "Competitive programming event with challenges across different difficulty levels.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800",
+      image: event3,
       participants: 80,
       highlights: ["5 Rounds", "Real-time Leaderboard", "Industry Problems"]
     }
